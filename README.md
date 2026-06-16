@@ -11,5 +11,5 @@ Antora's primary objective is to provide scripts that are user-friendly, optimiz
 ## Loadstring
 The current loadstring is as follows:
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/KontraPJL/Antora/refs/heads/main/abc.luau'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/qkontra/Antora/refs/heads/main/abc.luau'))()
 ))()
